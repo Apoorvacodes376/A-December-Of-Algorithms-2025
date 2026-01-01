@@ -86,7 +86,6 @@ class unique
 };
 
 int main(){
-    cout<<"Hello world!"<<endl;
     unique u;
     // u.unique();
     u.getinput();
